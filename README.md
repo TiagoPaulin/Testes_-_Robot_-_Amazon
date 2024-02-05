@@ -1,0 +1,1 @@
+Testes automatizados utilizando RobotFramework na plataforma da amazon, os casos de teste foram elaborados com o intuiro de resolver as questoes da avaliacao referente a disciplina de Verificacao e Validacao do Curso de Engenharia de Software - PUCPR
